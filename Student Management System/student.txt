@@ -1,0 +1,5 @@
+M, FNS, Mohlala, 32799462, 2
+V, EDU, Lepheane, 32671831, 4
+M, ENG, Mabaso, 45789012, 2
+P, THE, Segopolo, 43216789, 1
+P, LAW, Mpungosi, 38923621, 3

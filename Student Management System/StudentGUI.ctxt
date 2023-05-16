@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StudentGUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=
+comment3.target=void\ displayStudents()
+comment4.params=
+comment4.target=void\ addStudent()
+comment5.params=filename
+comment5.target=javafx.collections.ObservableList\ readFile(java.lang.String)
+numComments=6
